@@ -3,5 +3,7 @@
   "description": "Crachá virtual criado no evento da NLW Heat 2021",
   "language": "Html, Css, JavaScript",
   "url": "https://i.imgur.com/HpaaVTZ.png",
-  "status": "Concluído"
+  "status": "Concluído",
+  "site": "https://iurisant.github.io/cracha-nlw/",
+  "repositories": "https://github.com/iurisant/cracha-nlw"
 }
